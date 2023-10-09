@@ -407,7 +407,7 @@
   max-width: 600px;
   text-align: center;
   font-family: "Cormorant Infant";
-  line-height: 27px;
+  line-height: 35px;
 }
 .home-caption2 {
   color: rgb(239, 28, 28);
@@ -464,6 +464,7 @@
   font-size: 30px;
   font-family: "Cormorant Infant";
   line-height: 2;
+  font-weight: 600;
 }
 .home-text14 {
   color: #fb2121;
@@ -518,10 +519,12 @@
 .home-text25 {
   font-size: 50px;
   font-family: "Cormorant Infant";
+  text-align: center;
 }
 .home-text26 {
   font-size: 30px;
   font-family: "Cormorant Infant";
+  text-align: center;
 }
 .home-gallery {
   width: 100%;
