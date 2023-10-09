@@ -1077,9 +1077,9 @@
   .home-menu {
     display: flex;
   }
-  .home-links {
+  /* .home-links {
     display: none;
-  }
+  } */
   .home-hamburger {
     display: flex;
   }
